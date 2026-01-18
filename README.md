@@ -1,4 +1,4 @@
-# Hack&Roll 2024
+# Chioset
 
 ![Chioset Logo](https://github.com/emery97/HackAndRoll/blob/main/HackAndRoll/front-end/logo.png)
 
